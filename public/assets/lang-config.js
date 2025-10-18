@@ -10,5 +10,5 @@ window.__GOOGLE_TRANSLATION_CONFIG__ = {
         { title: 'Tamil', name: 'ta' },
         { title: 'Hindi', name: 'hi' },
     ],
-    defaultLanguage: 'en',
+    defaultLanguage: 'te',
 };
